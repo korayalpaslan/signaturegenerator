@@ -1,5 +1,4 @@
 "use client";
-import { useState } from "react";
 import { useCopyToClipboard } from "./useCopyToClipboard";
 
 const CopyToClipboardButton = () => {

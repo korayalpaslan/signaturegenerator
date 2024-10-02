@@ -10,14 +10,14 @@ export const useCopyToClipboard = () => {
               <tr>
                   <td width="120" style="vertical-align:top;padding:0 16px; ">
                       <a href="https://konghq.com/" data-external="true" style="margin-bottom=16px;">
-                      <img width="100%" style="border:none" src="https://drive.google.com/uc?export=view&id=1e046mtArZT7TOTMoaAmhrCLGjfigmZMd">
+                      <img width="100%" style="border:none" src="images/logo.png">
                       </a>
                       <br/> 
-                      <span style="margin-bottom:16px; color:#4C4C4C;">www.posbilisim.com</span>
-                    <table cellpadding="0" border="0" style="vertical-align:top; padding-top:10px">
+                      <span style=" color:#4C4C4C;">www.posbilisim.com</span>
+                    <table cellpadding="0" border="0" style="vertical-align:top; margin-top:16px;">
                           <tbody>
                               <tr>
-                                <td style=";   font-size: 12px; font-weight: bold; " ><a href="https://konghq.com/jobs/" data-external="true" style="text-decoration:none;color: #FF8000;"><a href="https://twitter.com/thekonginc" data-external="true"><img width="50%" style="border:none" src="https://assets.prd.mktg.konghq.com/images/2023/12/657a0219-icn-x.png"></a></td><td style="padding-left: 7px   font-size: 12px; font-weight: bold; " ><a href="https://konghq.com/jobs/" data-external="true" style="text-decoration:none;color: #FF8000;"><a href="https://www.linkedin.com/company/konghq/" data-external="true"><img width="50%" style="border:none" src="https://konghq.com/wp-content/uploads/2019/03/icn-linkedin.png"></a></td>
+                                <td style=";   font-size: 12px; font-weight: bold;" ><a href="https://konghq.com/jobs/" data-external="true" style="text-decoration:none;color: #FF8000;"><a href="https://twitter.com/thekonginc" data-external="true"><img width="50%" style="border:none" src="https://assets.prd.mktg.konghq.com/images/2023/12/657a0219-icn-x.png"></a></td><td style="padding-left: 7px   font-size: 12px; font-weight: bold; " ><a href="https://konghq.com/jobs/" data-external="true" style="text-decoration:none;color: #FF8000;"><a href="https://www.linkedin.com/company/konghq/" data-external="true"><img width="50%" style="border:none" src="https://konghq.com/wp-content/uploads/2019/03/icn-linkedin.png"></a></td>
                           <br/>
                           </tr>
                           </tbody>
